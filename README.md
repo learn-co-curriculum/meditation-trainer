@@ -8,17 +8,17 @@ spirit, build this app:
 
 ![Meditation Trainer](https://curriculum-content.s3.amazonaws.com/fewds/meditation-wireframe.png)
 
-## Objectives
+## Learning Goals
 
-1. Identify necessary elements and behaviors from the product owner's description
-2. Use HTML, CSS and JavaScript to build a "Meditation Trainer" app
+- Identify necessary elements and behaviors from the product owner's description
+- Use HTML, CSS and JavaScript to build a "Meditation Trainer" app
 
 ## Instructions
 
-Meditation is popular these days as a way to achieve mindfulness and reduce
-the stress of day-to-day life. We want to build an app that helps people
-increase the lengths of their breaths. We've "interviewed" the product owner
-and gotten their description of the app, just the way they said it:
+Meditation is popular these days as a way to achieve mindfulness and reduce the
+stress of day-to-day life. We want to build an app that helps people increase
+the lengths of their breaths. We've "interviewed" the product owner and gotten
+their description of the app, just the way they said it:
 
 > We'd like a button that says "START INHALE". You click it and in a neat little
 > box next to it to types a small instruction like "Nice and easy, through the
